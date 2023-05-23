@@ -1,0 +1,33 @@
+[
+    {
+    "id": 1,
+    "name": "Parking 1",
+    "type": "AIRPORT",
+    "city": "Roissy"
+    },
+    {
+    "id": 2,
+    "name": "Parking 2",
+    "type": "AIRPORT",
+    "city": "Beauvais"
+    },
+    {
+    "id": 3,
+    "name": "Parking 3",
+    "type": "AIRPORT",
+    "city": "Orly"
+    },
+    {
+    "id": 4,
+    "name": "Parking 4",
+    "type": "TRAIN_STATION",
+    "city": "Nice"
+    },
+    {
+    "id": 5,
+    "name": "Parking 5",
+    "type": "BUS_STATION",
+    "city": "Lille"
+    }
+    ]
+    
